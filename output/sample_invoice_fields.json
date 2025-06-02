@@ -1,0 +1,42 @@
+{
+  "invoice_number": {
+    "value": null,
+    "confidence": 0.0,
+    "present": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "present": false
+  },
+  "gst_number": {
+    "value": "696969696969696",
+    "confidence": 0.95,
+    "present": true
+  },
+  "po_number": {
+    "value": null,
+    "confidence": 0.0,
+    "present": false
+  },
+  "bill_to": {
+    "value": "Noida",
+    "confidence": 0.8,
+    "present": true
+  },
+  "ship_to": {
+    "value": "U.P. Sector-200",
+    "confidence": 0.8,
+    "present": true
+  },
+  "bill_to_address": {
+    "value": "Invoice",
+    "confidence": 0.7,
+    "present": true
+  },
+  "ship_to_address": {
+    "value": null,
+    "confidence": 0.0,
+    "present": false
+  }
+}

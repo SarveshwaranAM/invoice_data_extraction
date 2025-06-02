@@ -1,0 +1,12 @@
+pdf2image
+opencv-python
+numpy
+pytesseract
+pandas
+spacy
+Pillow
+# For spaCy NER, you may need to download a model separately, e.g.:
+# python -m spacy download en_core_web_sm
+# System dependency required for pdf2image:
+# Mac: brew install poppler
+# Ubuntu: sudo apt-get install poppler-utils

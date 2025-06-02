@@ -1,0 +1,778 @@
+[
+  {
+    "text": "S",
+    "left": 863,
+    "top": 322,
+    "width": 27,
+    "height": 43,
+    "conf": 88.0
+  },
+  {
+    "text": "M",
+    "left": 911,
+    "top": 321,
+    "width": 49,
+    "height": 42,
+    "conf": 88.0
+  },
+  {
+    "text": "K",
+    "left": 979,
+    "top": 320,
+    "width": 40,
+    "height": 41,
+    "conf": 90.0
+  },
+  {
+    "text": "FASHIONS",
+    "left": 1037,
+    "top": 314,
+    "width": 287,
+    "height": 46,
+    "conf": 96.0
+  },
+  {
+    "text": "34,",
+    "left": 570,
+    "top": 431,
+    "width": 45,
+    "height": 29,
+    "conf": 96.0
+  },
+  {
+    "text": "Voc",
+    "left": 625,
+    "top": 431,
+    "width": 55,
+    "height": 24,
+    "conf": 94.0
+  },
+  {
+    "text": "Nagar,",
+    "left": 691,
+    "top": 429,
+    "width": 96,
+    "height": 30,
+    "conf": 85.0
+  },
+  {
+    "text": "3rd",
+    "left": 800,
+    "top": 424,
+    "width": 47,
+    "height": 27,
+    "conf": 95.0
+  },
+  {
+    "text": "street,",
+    "left": 857,
+    "top": 426,
+    "width": 97,
+    "height": 24,
+    "conf": 84.0
+  },
+  {
+    "text": "Valayankadu,",
+    "left": 963,
+    "top": 418,
+    "width": 199,
+    "height": 32,
+    "conf": 88.0
+  },
+  {
+    "text": "Gandhi",
+    "left": 1173,
+    "top": 414,
+    "width": 105,
+    "height": 28,
+    "conf": 96.0
+  },
+  {
+    "text": "nagar",
+    "left": 1289,
+    "top": 421,
+    "width": 77,
+    "height": 23,
+    "conf": 38.0
+  },
+  {
+    "text": "(post),",
+    "left": 1373,
+    "top": 406,
+    "width": 93,
+    "height": 42,
+    "conf": 40.0
+  },
+  {
+    "text": "Tiruppur-641",
+    "left": 894,
+    "top": 467,
+    "width": 195,
+    "height": 33,
+    "conf": 89.0
+  },
+  {
+    "text": "603",
+    "left": 1101,
+    "top": 466,
+    "width": 54,
+    "height": 24,
+    "conf": 96.0
+  },
+  {
+    "text": "Date",
+    "left": 1044,
+    "top": 655,
+    "width": 70,
+    "height": 24,
+    "conf": 96.0
+  },
+  {
+    "text": "of",
+    "left": 1124,
+    "top": 650,
+    "width": 32,
+    "height": 26,
+    "conf": 96.0
+  },
+  {
+    "text": "Supply:",
+    "left": 1164,
+    "top": 648,
+    "width": 116,
+    "height": 32,
+    "conf": 91.0
+  },
+  {
+    "text": "29/05/2025",
+    "left": 1311,
+    "top": 641,
+    "width": 177,
+    "height": 34,
+    "conf": 91.0
+  },
+  {
+    "text": ":Chennai",
+    "left": 1313,
+    "top": 693,
+    "width": 128,
+    "height": 26,
+    "conf": 56.0
+  },
+  {
+    "text": "NAME",
+    "left": 196,
+    "top": 823,
+    "width": 92,
+    "height": 29,
+    "conf": 63.0
+  },
+  {
+    "text": ":",
+    "left": 343,
+    "top": 829,
+    "width": 5,
+    "height": 16,
+    "conf": 16.0
+  },
+  {
+    "text": "AARJAY",
+    "left": 367,
+    "top": 813,
+    "width": 124,
+    "height": 30,
+    "conf": 91.0
+  },
+  {
+    "text": "AGENCIES",
+    "left": 500,
+    "top": 804,
+    "width": 153,
+    "height": 43,
+    "conf": 90.0
+  },
+  {
+    "text": "ADDRESS:",
+    "left": 190,
+    "top": 866,
+    "width": 152,
+    "height": 43,
+    "conf": 95.0
+  },
+  {
+    "text": "No.19,",
+    "left": 364,
+    "top": 849,
+    "width": 103,
+    "height": 49,
+    "conf": 30.0
+  },
+  {
+    "text": "Mahatma",
+    "left": 482,
+    "top": 849,
+    "width": 128,
+    "height": 49,
+    "conf": 30.0
+  },
+  {
+    "text": "Gandhi",
+    "left": 627,
+    "top": 854,
+    "width": 107,
+    "height": 29,
+    "conf": 96.0
+  },
+  {
+    "text": "sala.",
+    "left": 745,
+    "top": 853,
+    "width": 76,
+    "height": 27,
+    "conf": 0.0
+  },
+  {
+    "text": "E-Block,",
+    "left": 195,
+    "top": 905,
+    "width": 121,
+    "height": 50,
+    "conf": 75.0
+  },
+  {
+    "text": "Thanickachalam",
+    "left": 324,
+    "top": 905,
+    "width": 226,
+    "height": 50,
+    "conf": 75.0
+  },
+  {
+    "text": "Nagar,",
+    "left": 567,
+    "top": 909,
+    "width": 98,
+    "height": 30,
+    "conf": 96.0
+  },
+  {
+    "text": "E-Block,",
+    "left": 1045,
+    "top": 882,
+    "width": 118,
+    "height": 45,
+    "conf": 86.0
+  },
+  {
+    "text": "Thanickachalam",
+    "left": 1179,
+    "top": 882,
+    "width": 222,
+    "height": 45,
+    "conf": 86.0
+  },
+  {
+    "text": "Nagar,",
+    "left": 1419,
+    "top": 886,
+    "width": 95,
+    "height": 30,
+    "conf": 94.0
+  },
+  {
+    "text": "Kolathur,Chennai-110",
+    "left": 192,
+    "top": 956,
+    "width": 332,
+    "height": 47,
+    "conf": 90.0
+  },
+  {
+    "text": "Kolathur,",
+    "left": 1045,
+    "top": 933,
+    "width": 137,
+    "height": 44,
+    "conf": 37.0
+  },
+  {
+    "text": "Chennai-110",
+    "left": 1198,
+    "top": 933,
+    "width": 177,
+    "height": 44,
+    "conf": 37.0
+  },
+  {
+    "text": "STATE:",
+    "left": 197,
+    "top": 1019,
+    "width": 92,
+    "height": 31,
+    "conf": 55.0
+  },
+  {
+    "text": "Tamil",
+    "left": 343,
+    "top": 1011,
+    "width": 105,
+    "height": 31,
+    "conf": 96.0
+  },
+  {
+    "text": "nadu",
+    "left": 454,
+    "top": 1003,
+    "width": 80,
+    "height": 42,
+    "conf": 90.0
+  },
+  {
+    "text": "CODE:33",
+    "left": 877,
+    "top": 996,
+    "width": 132,
+    "height": 28,
+    "conf": 92.0
+  },
+  {
+    "text": "|STATE",
+    "left": 1044,
+    "top": 993,
+    "width": 93,
+    "height": 27,
+    "conf": 20.0
+  },
+  {
+    "text": " :",
+    "left": 1162,
+    "top": 981,
+    "width": 36,
+    "height": 47,
+    "conf": 20.0
+  },
+  {
+    "text": "Tamil",
+    "left": 1209,
+    "top": 987,
+    "width": 80,
+    "height": 29,
+    "conf": 92.0
+  },
+  {
+    "text": "nadu",
+    "left": 1301,
+    "top": 985,
+    "width": 73,
+    "height": 28,
+    "conf": 92.0
+  },
+  {
+    "text": "GSTIN:",
+    "left": 193,
+    "top": 1071,
+    "width": 151,
+    "height": 28,
+    "conf": 37.0
+  },
+  {
+    "text": "33AHUPK6684P129",
+    "left": 363,
+    "top": 1051,
+    "width": 303,
+    "height": 46,
+    "conf": 58.0
+  },
+  {
+    "text": "a",
+    "left": 305,
+    "top": 1106,
+    "width": 91,
+    "height": 30,
+    "conf": 15.0
+  },
+  {
+    "text": "a",
+    "left": 510,
+    "top": 1099,
+    "width": 66,
+    "height": 20,
+    "conf": 0.0
+  },
+  {
+    "text": "Girls",
+    "left": 366,
+    "top": 1211,
+    "width": 68,
+    "height": 29,
+    "conf": 96.0
+  },
+  {
+    "text": "Shapewear",
+    "left": 443,
+    "top": 1209,
+    "width": 172,
+    "height": 31,
+    "conf": 96.0
+  },
+  {
+    "text": "job",
+    "left": 622,
+    "top": 1202,
+    "width": 49,
+    "height": 34,
+    "conf": 96.0
+  },
+  {
+    "text": "work",
+    "left": 681,
+    "top": 1194,
+    "width": 77,
+    "height": 42,
+    "conf": 96.0
+  },
+  {
+    "text": "cut",
+    "left": 367,
+    "top": 1263,
+    "width": 47,
+    "height": 25,
+    "conf": 95.0
+  },
+  {
+    "text": "to",
+    "left": 423,
+    "top": 1262,
+    "width": 32,
+    "height": 23,
+    "conf": 96.0
+  },
+  {
+    "text": "pack",
+    "left": 465,
+    "top": 1255,
+    "width": 70,
+    "height": 34,
+    "conf": 96.0
+  },
+  {
+    "text": "NAME",
+    "left": 1044,
+    "top": 797,
+    "width": 96,
+    "height": 26,
+    "conf": 52.0
+  },
+  {
+    "text": ":",
+    "left": 1193,
+    "top": 802,
+    "width": 6,
+    "height": 17,
+    "conf": 70.0
+  },
+  {
+    "text": "AAR",
+    "left": 1210,
+    "top": 793,
+    "width": 62,
+    "height": 26,
+    "conf": 89.0
+  },
+  {
+    "text": "JAY",
+    "left": 1281,
+    "top": 791,
+    "width": 51,
+    "height": 26,
+    "conf": 89.0
+  },
+  {
+    "text": "AGENCIES",
+    "left": 1341,
+    "top": 787,
+    "width": 150,
+    "height": 28,
+    "conf": 95.0
+  },
+  {
+    "text": "ADDRESS",
+    "left": 1044,
+    "top": 844,
+    "width": 140,
+    "height": 28,
+    "conf": 93.0
+  },
+  {
+    "text": ":",
+    "left": 1196,
+    "top": 851,
+    "width": 5,
+    "height": 17,
+    "conf": 89.0
+  },
+  {
+    "text": "No.19,Mahatma",
+    "left": 1213,
+    "top": 837,
+    "width": 244,
+    "height": 32,
+    "conf": 73.0
+  },
+  {
+    "text": "Gandhi",
+    "left": 1468,
+    "top": 832,
+    "width": 106,
+    "height": 27,
+    "conf": 90.0
+  },
+  {
+    "text": "sala»,",
+    "left": 1583,
+    "top": 830,
+    "width": 75,
+    "height": 28,
+    "conf": 77.0
+  },
+  {
+    "text": "CODE:",
+    "left": 1692,
+    "top": 972,
+    "width": 82,
+    "height": 27,
+    "conf": 96.0
+  },
+  {
+    "text": "33",
+    "left": 1795,
+    "top": 970,
+    "width": 35,
+    "height": 26,
+    "conf": 96.0
+  },
+  {
+    "text": "Frve",
+    "left": 529,
+    "top": 1834,
+    "width": 60,
+    "height": 25,
+    "conf": 56.0
+  },
+  {
+    "text": "Bundal",
+    "left": 600,
+    "top": 1828,
+    "width": 102,
+    "height": 30,
+    "conf": 92.0
+  },
+  {
+    "text": "41,811",
+    "left": 1629,
+    "top": 1891,
+    "width": 103,
+    "height": 31,
+    "conf": 95.0
+  },
+  {
+    "text": "00",
+    "left": 1745,
+    "top": 1888,
+    "width": 36,
+    "height": 27,
+    "conf": 95.0
+  },
+  {
+    "text": "1,045.28",
+    "left": 1643,
+    "top": 1942,
+    "width": 130,
+    "height": 35,
+    "conf": 51.0
+  },
+  {
+    "text": "1,045.28",
+    "left": 1644,
+    "top": 1994,
+    "width": 131,
+    "height": 34,
+    "conf": 80.0
+  },
+  {
+    "text": "JOUNT",
+    "left": 250,
+    "top": 1993,
+    "width": 90,
+    "height": 27,
+    "conf": 57.0
+  },
+  {
+    "text": "IN",
+    "left": 349,
+    "top": 1992,
+    "width": 30,
+    "height": 26,
+    "conf": 74.0
+  },
+  {
+    "text": "WORDS",
+    "left": 390,
+    "top": 1988,
+    "width": 119,
+    "height": 29,
+    "conf": 93.0
+  },
+  {
+    "text": ":",
+    "left": 520,
+    "top": 1995,
+    "width": 4,
+    "height": 17,
+    "conf": 90.0
+  },
+  {
+    "text": "Forty",
+    "left": 334,
+    "top": 2042,
+    "width": 78,
+    "height": 31,
+    "conf": 96.0
+  },
+  {
+    "text": "three",
+    "left": 421,
+    "top": 2039,
+    "width": 81,
+    "height": 27,
+    "conf": 96.0
+  },
+  {
+    "text": "Thousand",
+    "left": 512,
+    "top": 2034,
+    "width": 147,
+    "height": 30,
+    "conf": 96.0
+  },
+  {
+    "text": "nine",
+    "left": 670,
+    "top": 2033,
+    "width": 65,
+    "height": 27,
+    "conf": 96.0
+  },
+  {
+    "text": "hundred",
+    "left": 746,
+    "top": 2027,
+    "width": 130,
+    "height": 30,
+    "conf": 95.0
+  },
+  {
+    "text": "two",
+    "left": 887,
+    "top": 2031,
+    "width": 58,
+    "height": 22,
+    "conf": 96.0
+  },
+  {
+    "text": "only",
+    "left": 601,
+    "top": 2084,
+    "width": 65,
+    "height": 33,
+    "conf": 66.0
+  },
+  {
+    "text": "Bank",
+    "left": 272,
+    "top": 2290,
+    "width": 77,
+    "height": 42,
+    "conf": 96.0
+  },
+  {
+    "text": "ICC!",
+    "left": 543,
+    "top": 2291,
+    "width": 65,
+    "height": 26,
+    "conf": 0.0
+  },
+  {
+    "text": "Bank,",
+    "left": 623,
+    "top": 2283,
+    "width": 77,
+    "height": 42,
+    "conf": 87.0
+  },
+  {
+    "text": "Tiruppur",
+    "left": 714,
+    "top": 2283,
+    "width": 120,
+    "height": 42,
+    "conf": 86.0
+  },
+  {
+    "text": "AICNo",
+    "left": 276,
+    "top": 2342,
+    "width": 107,
+    "height": 33,
+    "conf": 21.0
+  },
+  {
+    "text": ":",
+    "left": 445,
+    "top": 2350,
+    "width": 5,
+    "height": 18,
+    "conf": 21.0
+  },
+  {
+    "text": "420805001055",
+    "left": 541,
+    "top": 2338,
+    "width": 230,
+    "height": 28,
+    "conf": 85.0
+  },
+  {
+    "text": "IFSC",
+    "left": 278,
+    "top": 2395,
+    "width": 63,
+    "height": 26,
+    "conf": 73.0
+  },
+  {
+    "text": "Code",
+    "left": 349,
+    "top": 2394,
+    "width": 77,
+    "height": 26,
+    "conf": 89.0
+  },
+  {
+    "text": ":",
+    "left": 445,
+    "top": 2399,
+    "width": 7,
+    "height": 19,
+    "conf": 89.0
+  },
+  {
+    "text": "14100004208",
+    "left": 543,
+    "top": 2388,
+    "width": 191,
+    "height": 29,
+    "conf": 26.0
+  }
+]
